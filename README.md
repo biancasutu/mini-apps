@@ -1,2 +1,4 @@
-# mini-apps
-Short apps, projects
+# mini-applications
+
+Calculator
+Snake game
